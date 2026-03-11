@@ -121,7 +121,7 @@ predictedKg = base × day × meal × weather × event
 | Database | MongoDB Atlas + Mongoose |
 | Auth | JWT (access + refresh tokens) |
 | AI | Google Gemini 1.5 Flash |
-| Deployment | Vercel (frontend) + Render (backend) |
+| Deployment | Render (frontend) + Render (backend) |
 
 ---
 
