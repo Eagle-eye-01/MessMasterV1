@@ -127,8 +127,8 @@ predictedKg = base × day × meal × weather × event
 
 ## 🚀 Deployment
 
-### Frontend (Vercel)
-1. Connect GitHub repo to Vercel
+### Frontend (Render)
+1. Connect GitHub repo to Render
 2. Set root directory: `client`
 3. Add env variables: `VITE_API_BASE_URL`, `VITE_STUDENT_FEEDBACK_URL`
 
