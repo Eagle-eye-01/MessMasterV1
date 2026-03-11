@@ -1,4 +1,4 @@
-# 🌿 MessMaster
+# 🌿 MessMaster by Team Overclocked
 
 **Hostel Mess Food Wastage Tracker & Intelligence Platform**
 
@@ -162,4 +162,4 @@ MessMaster/
 
 ---
 
-*Built with 💚 for Hackathon 2024 — Every other team shows charts of what happened. We show what WILL happen.*
+*Built with 💚 for Hackathon 2026 — Every other team shows charts of what happened. We show what WILL happen.*
